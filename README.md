@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm @egasa21</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Node.js and the other JavaScript frameworks**
+- 🌱 I’m currently learning **Go Lang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/egasa21](https://github.com/egasa21)
-
-- 💬 Ask me about **Express.js**
 
 - 📫 How to reach me **esaputra168@gmail.com**
 
