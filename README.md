@@ -17,7 +17,7 @@ Based in Jakarta. I spend my days wrangling microservices, yelling at Kafka, and
 🏦 **AstraPay** — Software Engineer *(Jan 2026 – present)*
 iOS, Android, Angular, Spring Boot — yes, all of it. fintech doesn't care about your specialization.
 
-🔧 **Bafarqas · Sunhouse Digital · berijalan** *(2025)*
+🔧 **Bafarqas · Sunhouse Digital · Berijalan** *(2025)*
 backend across three fronts simultaneously — I contain multitudes.
 
 🎓 **Bangkit Academy** *(Google · Tokopedia · Gojek · Traveloka · 2023)*
