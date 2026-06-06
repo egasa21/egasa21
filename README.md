@@ -33,7 +33,7 @@ where it all started. javascript. the scars remain.
 🏠 **[Rentalize](https://github.com/egasa21)** — AI-powered rental platform
 Go + Python + LangChain · because rental platforms deserve to be smarter than a spreadsheet
 
-☕ **Logic Roastery** — Founder
+☕ **[Logic Roastery](https://github.com/logic-roastery)** — Founder
 a small company (future empire) where I brew code alongside actual coffee. building in public.
 
 ---
